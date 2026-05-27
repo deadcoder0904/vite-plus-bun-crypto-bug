@@ -1,0 +1,12 @@
+{
+  "name": "vite-plus-bun-crypto-bug",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vp dev"
+  },
+  "dependencies": {
+    "vite": "^8.0.14",
+    "vite-plus": "^0.1.22"
+  }
+}
