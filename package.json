@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vp dev"
+    "dev": "bun --bun vp dev"
   },
   "dependencies": {
     "vite": "^8.0.14",
